@@ -1,6 +1,6 @@
 # MDCP — Million Dollar Consistency Partner
 
-> A personal framework for building toward significant goals through disciplined, compounding daily action. Built for one. May soon work for anyone.
+> A carefully designed framework built on disciplined execution, automated documentation, and deliberate iteration — with an architecture that fits most disciplined processes.
 
 ---
 
@@ -29,6 +29,25 @@ Not a disclaimer. The condition under which all of this thinking happens — and
 **Consistency compounds. Perfection stalls.**
 
 MDCP is structured around daily action aligned to a goal that feels slightly out of reach. The system tracks, filters, and surfaces what matters — so you don't have to hold it all in your head.
+
+No project should exist without documentation in the age of artificial intelligence. Iterations are necessary to find value in the process. I have built this framework on that belief — and learned to automate the documentation so the discipline scales.
+
+---
+
+## Is this for you?
+
+Built for those who believe that consistency, documentation, and deliberate iteration are not habits — they are architecture.
+
+**Before you reach out, answer these honestly:**
+
+1. Do you document your process before you optimize it?
+2. When a project fails, how do you try to know the root cause?
+3. Do you iterate on the same problem at least three times with a record of what changed each time?
+4. Do you treat consistency as a system, or as a personality trait you either have or don't?
+5. Are you willing to slow down long enough to design the experiment before running it?
+
+If you answered yes to all five — this framework was built for you.  
+If you hesitated on even one — that hesitation is exactly what we work on first.
 
 ---
 
