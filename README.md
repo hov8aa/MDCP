@@ -74,6 +74,41 @@ If you hesitated on even one — that hesitation is exactly what we work on firs
 **Approach:** Carefully monitor cost. Design each experiment to optimize the workflow. Save cost by being intentional about what gets sent, when, and why.  
 **Status:** 🔨 Active build.
 
+#### How the Hermes Agent Works
+
+After every live stream, the Hermes agent runs a 12-step pipeline — fully automated, anchored to one north star: **$1M for Salesforce clients by December 31, 2026.**
+
+**Phase 1 — Ingest**
+1. Mint a fresh OAuth access token using the refresh token
+2. Find the latest completed live stream on the channel via YouTube Data API
+3. List caption tracks, download content using the OAuth Bearer token
+4. Clean the VTT to plain text — strip timestamps, tags, deduplicate adjacent lines
+
+**Phase 2 — Context**
+
+5. Fetch the previous day's Notion session page and extract its task list
+
+**Phase 3 — Parse & Narrate** *(steps 6 and 7 run in parallel)*
+
+6. Parser → extract tasks, artifacts, ICP interactions, learnings, content created
+7. Summary Generator → prose narrative of the session in Hari's tone
+
+**Phase 4 — Analyse** *(waits for Phase 3)*
+
+8. Alignment Engine → score, verdict, drift analysis against the $1M goal
+9. Task Reconciler → consolidated task list grouped by project, carry-forwards resolved
+
+**Phase 5 — Decide** *(waits for Phase 4)*
+
+10. Next Actions Generator → 3–5 recommended actions, each with an explicit revenue connection
+
+**Phase 6 — Publish**
+
+11. Push one structured Notion page — alignment verdict, session story, next actions, task tracker, learnings, artifacts, drift analysis
+12. Update the YouTube video description with session summary + outreach hook + Notion page link
+
+> If no new stream is found since the last run — the pipeline stops. No duplicate pages. No wasted runs.
+
 ---
 
 ## Documented live
