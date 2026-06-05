@@ -1,16 +1,16 @@
 # MDCP — Million Dollar Consistency Partner
 
-> A personal operating system for building toward significant goals through disciplined, compounding daily action.
+> A personal framework for building toward significant goals through disciplined, compounding daily action. Built for one. May soon work for anyone.
 
 ---
 
 ## What is MDCP?
 
-MDCP is not a tool. It's a **forcing mechanism** — a system built around one constraint:
+MDCP is not a productivity app. It's a **personal framework** — a system for making every hour count, across every domain that matters.
 
-**Every hour has to count.**
+It started as a private forcing mechanism: one person, one goal, constrained time, no margin for wasted motion. The deeper the system got, the clearer it became that the underlying logic is universal.
 
-The goal is $1M in measurable client value through disciplined Agentforce optimization by December 31st, 2026. MDCP is the infrastructure that makes that possible under real-world conditions — 4 hours a day, a grandfather with dementia as primary responsibility, and no margin for wasted motion.
+**The bet:** if this works under real-world pressure — caregiving, limited hours, high stakes — it can work for anyone trying to build something significant without burning everything else down.
 
 ---
 
@@ -18,7 +18,17 @@ The goal is $1M in measurable client value through disciplined Agentforce optimi
 
 My grandfather is 88. He has dementia, cannot walk, and cannot adequately communicate his needs. I am his primary support.
 
-This is not a disclaimer. It's the condition under which all of this thinking happens — and the reason every hour has to count.
+This means ~4 hours a day to build.
+
+Not a disclaimer. The condition under which all of this thinking happens — and the reason the framework had to get tight.
+
+---
+
+## Core principle
+
+**Consistency compounds. Perfection stalls.**
+
+MDCP is structured around daily action aligned to a goal that feels slightly out of reach. The system tracks, filters, and surfaces what matters — so you don't have to hold it all in your head.
 
 ---
 
@@ -35,12 +45,6 @@ This is not a disclaimer. It's the condition under which all of this thinking ha
 ## OTAAT — One Thing At A Time
 
 The operating constraint for v0.3. No sprawl, no multitasking, no premature abstraction. One focused thing at a time, done properly.
-
-Active domains:
-- **HiDevs** — AI education community, hackathons, member ops, Dr. Agent
-- **NothingElseMatterz** — Website, SEO, MCP integrations, Salesforce ICP
-- **Freelancer** — Content strategy, funnel analysis, @hov8a positioning
-- **Family** — Documents, resumes, forms for family support
 
 ---
 
