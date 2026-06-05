@@ -32,19 +32,28 @@ MDCP is structured around daily action aligned to a goal that feels slightly out
 
 ---
 
-## Versions
+## Version History
 
-| Version | What it is | Stack | Status |
-|---|---|---|---|
-| **v0.1** | Daily work transcription, to-do filtering, goal alignment | [Custom GPT](https://chatgpt.com/g/g-697b083e90748191922ad6ffce2d2ba8-million-dollar-consistency-partner) | ✅ Live |
-| **v0.2 — Hermes** | First Agentforce iteration — agent-enabled system built live in public | Salesforce Agentforce | 🔨 Building live |
-| **v0.3 — OTAAT** | One Thing At A Time — full personal OS with Claude Code, MCP integrations, domain-specific tooling | Claude + MCP | 🔨 Active |
+### v0.1 — Custom GPT
+**Goal:** Get a thinking partner that could receive raw daily work, filter noise, and keep me aligned to the goal.  
+**What it proved:** Consistency needs a mirror, not a manager. Having something to report to — even an AI — changes behavior.  
+**What it couldn't do:** Persist context meaningfully across sessions. Every conversation started cold.
 
 ---
 
-## OTAAT — One Thing At A Time
+### v0.2 — OpenClaw *(powered by ClawStation.ai)*
+**Goal:** Build a proper personal agent with real memory, real actions, and a real stack.  
+**What it proved:** Per-message cost at personal scale is a real adoption blocker. The shock of cost-per-interaction broke the habit loop before the system could prove itself.  
+**What it couldn't do:** Survive the economics of casual, daily use. Cost, setup complexity, and maintenance overhead made it unsustainable.
 
-The operating constraint for v0.3. No sprawl, no multitasking, no premature abstraction. One focused thing at a time, done properly.
+**The lesson that carried forward:** Every message has a cost — so design the workflow to earn it. Monitor cost deliberately. Optimize the interaction. Don't use more than the task requires.
+
+---
+
+### v0.3 — MDCP *(powered by ClawStation.ai)*
+**Goal:** A cost-aware personal framework that compounds daily — lean by design, not by accident.  
+**Approach:** Carefully monitor cost. Design each experiment to optimize the workflow. Save cost by being intentional about what gets sent, when, and why.  
+**Status:** 🔨 Active build.
 
 ---
 
